@@ -1,15 +1,13 @@
-title: Jana Rutkowska # your name (or website title) here
-logo: "https://github.com/JanaRTK/janartk.github.io/blob/master/images/janaavatar.jpeg?raw=true" # your photo (or logo) here
+title: John Doe # your name (or website title) here
+logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-   Hi there! Welcome to my portfolio. I’m Jana, a data analyst with a passion for data visualizations, NLP, and all things realted to language and AI.  
+  First description 
   <br><br>
-  I started as a medical interpreter, helping patients who speak limited English access essential healthcare, which inspired the focus of my projects and my data career. 
+  Second description 
   <br><br>
-  Explore my work, and thanks for stopping by!
-  <br><br>
-  <a href="https://www.linkedin.com/in/jana-rutkowska-data-analyst/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
-google_analytics: G-EE5PBTDL23 # your Google Analytics tracking ID here
+google_analytics: UA-000000-0 # your Google Analytics tracking ID here
