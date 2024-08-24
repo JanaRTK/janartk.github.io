@@ -1,11 +1,20 @@
-title: Kenny Gobbledick # your name (or website title) here
+title: Jana Rutkowska | Portfolio Projects # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  My Face Looks Better Than My Ass 
+  Hi there! Welcome to my portfolio.  
   <br><br>
-  My Ass Looks Better Than Your Ass 
+  I’m Jana, a data analyst with a passion for data visualizations, NLP, and all things related to language and AI.I started as a medical interpreter, helping patients who speak limited English access essential healthcare, which inspired the focus of my projects and my data career.
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  Explore my work, and thanks for stopping by!
+  <br><br>
+  <br><br>
+  I'm always happy to connect! 
+  <br><br>
+  <a href="https://www.linkedin.com/in/jana-rutkowska-data-analyst/">LinkedIn</a>
+  <a href="https://public.tableau.com/app/profile/jana.rutkowska/vizzes">Tableau Public</a>
+  <a href="https://medium.com/@janarutkowska">Medium</a>
+  <a href="https://github.com/JanaRTK">GitHub</a> 
+
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
